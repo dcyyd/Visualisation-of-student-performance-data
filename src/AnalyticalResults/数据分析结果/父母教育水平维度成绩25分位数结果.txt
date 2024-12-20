@@ -1,0 +1,8 @@
+                     数学成绩  阅读成绩  写作成绩
+父母教育水平                               
+associate's degree  57.00  61.0  58.0
+bachelor's degree   61.00  63.0  62.5
+high school         53.75  54.0  52.0
+master's degree     55.50  65.5  67.0
+some college        59.00  60.0  60.0
+some high school    53.00  56.5  54.0

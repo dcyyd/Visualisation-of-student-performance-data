@@ -1,0 +1,7 @@
+         数学成绩  阅读成绩  写作成绩
+种族/民族                    
+group A    28    23    19
+group B     8    24    15
+group C     0    17    10
+group D    26    31    32
+group E    30    26    22

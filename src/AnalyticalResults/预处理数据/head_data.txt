@@ -1,0 +1,8 @@
+数据前几行内容信息：
+|    | 性别   | 种族/民族   | 父母教育水平       | 午餐         | 备考课程   | 数学成绩   | 阅读成绩   | 写作成绩   |
+|:---|:-------|:------------|:-------------------|:-------------|:-----------|:-----------|:-----------|:-----------|
+| 0  | female | group B     | bachelor's degree  | standard     | none       | 72         | 72         | 74         |
+| 1  | female | group C     | some college       | standard     | completed  | 69         | 90         | 88         |
+| 2  | female | group B     | master's degree    | standard     | none       | 90         | 95         | 93         |
+| 3  | male   | group A     | associate's degree | free/reduced | none       | 47         | 57         | 44         |
+| 4  | male   | group C     | some college       | standard     | none       | 76         | 78         | 75         |

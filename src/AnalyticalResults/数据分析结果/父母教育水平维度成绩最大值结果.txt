@@ -1,0 +1,8 @@
+                    数学成绩  阅读成绩  写作成绩
+父母教育水平                              
+associate's degree   100   100   100
+bachelor's degree    100   100   100
+high school           99    99   100
+master's degree       95   100   100
+some college         100   100    99
+some high school      97   100   100
